@@ -8,4 +8,6 @@ To contribute to this repo create a separate repositporty with a folder under th
 
 For example, for lab1 create a folder `/lab1` on a new branch.
 
-After finishing your job submit a pull request to the `main` branch.
+After finishing your job submit a pull request to the `main` branch and assign a reviewer. 
+
+In each folder add a README.md answering the questions in the end.
